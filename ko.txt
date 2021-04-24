@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",fox
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxhd.smil/chunklist_b1101581_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",FX
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/chunklist_b664685_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Discovery CHANNEL
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b1101581_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Discovery KIDS
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b1101581_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Disney Junior
+https://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="" group-title="",Disney XD
+https://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_360_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="" group-title="",FOX Premium
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxpremium1hd.smil/chunklist_b1101581_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RECORD Brasilia HD
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RECORD NEWS HD
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Rede TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w103037824_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Universal
+https://cdn.multicanais.com/mylive/universalsd/2020/03/24/17/18/04-05000.ts
+#EXTINF:-1 tvg-logo="" group-title="",HBO Family
+https://cdn.multicanais.com/live/hbofamilyhd/2020/03/24/17/23/28-06000.ts
+#EXTINF:-1 tvg-logo="" group-title="",HBO2
+https://cdn.multicanais.com/live/hbo2hd/2020/03/24/17/29/47-06000.ts
+#EXTINF:-1 tvg-logo="" group-title="",Tele-cine Pipoca
+https://cdn.multicanais.com/live/telecinepipocahd/2020/03/24/17/32/04-05005.ts
+#EXTINF:-1,iptvtools_1
+http://95.251.217.178:8080/
+#EXTINF:-1,iptvtools_2
+http://50.123.1.171/
